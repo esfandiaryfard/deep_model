@@ -1,4 +1,4 @@
-## Wine qualiy oredict model 
+## Wine qualiy predict model 
 
 I recently finished a deep learning course in courseera and I tried to create a prediction model with what I learned. I used a wine quality dtataset and I tried keras and scikit learn to make a prediction deep learnig model.
 
